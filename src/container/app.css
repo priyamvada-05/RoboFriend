@@ -1,0 +1,17 @@
+.new1{
+	margin: 0 25px;
+}
+
+
+.new{
+
+	margin-top: 15px;
+}
+
+.font-face {
+font-family: 'Kingthings Pique'n'meex Regular';
+font-style: normal;
+font-weight: normal;
+src: local('Kingthings Pique'n'meex Regular'), url('Kingthings Pique n meex.woff') format('woff');
+font-size: 350%;
+}
