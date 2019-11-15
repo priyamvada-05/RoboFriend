@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/priyamvada-05/RoboFriend/static/css/main.8690e348.chunk.css",
+    "main.js": "/priyamvada-05/RoboFriend/static/js/main.f6645756.chunk.js",
+    "main.js.map": "/priyamvada-05/RoboFriend/static/js/main.f6645756.chunk.js.map",
+    "runtime-main.js": "/priyamvada-05/RoboFriend/static/js/runtime-main.aa5d4352.js",
+    "runtime-main.js.map": "/priyamvada-05/RoboFriend/static/js/runtime-main.aa5d4352.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/priyamvada-05/RoboFriend/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.c056ad7e.chunk.js": "/priyamvada-05/RoboFriend/static/js/2.c056ad7e.chunk.js",
+    "static/js/2.c056ad7e.chunk.js.map": "/priyamvada-05/RoboFriend/static/js/2.c056ad7e.chunk.js.map",
+    "index.html": "/priyamvada-05/RoboFriend/index.html",
+    "precache-manifest.7964cb142774320d86edca06feba82d3.js": "/priyamvada-05/RoboFriend/precache-manifest.7964cb142774320d86edca06feba82d3.js",
+    "service-worker.js": "/priyamvada-05/RoboFriend/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/priyamvada-05/RoboFriend/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.8690e348.chunk.css.map": "/priyamvada-05/RoboFriend/static/css/main.8690e348.chunk.css.map",
+    "static/media/app.css": "/priyamvada-05/RoboFriend/static/media/Kingthings Pique n meex.12f9bb12.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa5d4352.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.c056ad7e.chunk.js",
+    "static/css/main.8690e348.chunk.css",
+    "static/js/main.f6645756.chunk.js"
+  ]
+}
