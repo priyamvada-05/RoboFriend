@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/priyamvada-05/RoboFriend/static/css/main.8690e348.chunk.css",
-    "main.js": "/priyamvada-05/RoboFriend/static/js/main.f6645756.chunk.js",
-    "main.js.map": "/priyamvada-05/RoboFriend/static/js/main.f6645756.chunk.js.map",
-    "runtime-main.js": "/priyamvada-05/RoboFriend/static/js/runtime-main.aa5d4352.js",
-    "runtime-main.js.map": "/priyamvada-05/RoboFriend/static/js/runtime-main.aa5d4352.js.map",
-    "static/css/2.eb45ad44.chunk.css": "/priyamvada-05/RoboFriend/static/css/2.eb45ad44.chunk.css",
-    "static/js/2.c056ad7e.chunk.js": "/priyamvada-05/RoboFriend/static/js/2.c056ad7e.chunk.js",
-    "static/js/2.c056ad7e.chunk.js.map": "/priyamvada-05/RoboFriend/static/js/2.c056ad7e.chunk.js.map",
-    "index.html": "/priyamvada-05/RoboFriend/index.html",
-    "precache-manifest.7964cb142774320d86edca06feba82d3.js": "/priyamvada-05/RoboFriend/precache-manifest.7964cb142774320d86edca06feba82d3.js",
-    "service-worker.js": "/priyamvada-05/RoboFriend/service-worker.js",
-    "static/css/2.eb45ad44.chunk.css.map": "/priyamvada-05/RoboFriend/static/css/2.eb45ad44.chunk.css.map",
-    "static/css/main.8690e348.chunk.css.map": "/priyamvada-05/RoboFriend/static/css/main.8690e348.chunk.css.map",
-    "static/media/app.css": "/priyamvada-05/RoboFriend/static/media/Kingthings Pique n meex.12f9bb12.woff"
+    "main.css": "/RoboFriend/static/css/main.ac1a6514.chunk.css",
+    "main.js": "/RoboFriend/static/js/main.c8e949ea.chunk.js",
+    "main.js.map": "/RoboFriend/static/js/main.c8e949ea.chunk.js.map",
+    "runtime-main.js": "/RoboFriend/static/js/runtime-main.401e862b.js",
+    "runtime-main.js.map": "/RoboFriend/static/js/runtime-main.401e862b.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/RoboFriend/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.c056ad7e.chunk.js": "/RoboFriend/static/js/2.c056ad7e.chunk.js",
+    "static/js/2.c056ad7e.chunk.js.map": "/RoboFriend/static/js/2.c056ad7e.chunk.js.map",
+    "index.html": "/RoboFriend/index.html",
+    "precache-manifest.495a3ccb411a6fdd8f3919185a33e98c.js": "/RoboFriend/precache-manifest.495a3ccb411a6fdd8f3919185a33e98c.js",
+    "service-worker.js": "/RoboFriend/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/RoboFriend/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.ac1a6514.chunk.css.map": "/RoboFriend/static/css/main.ac1a6514.chunk.css.map",
+    "static/media/app.css": "/RoboFriend/static/media/Kingthings Pique n meex.12f9bb12.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.aa5d4352.js",
+    "static/js/runtime-main.401e862b.js",
     "static/css/2.eb45ad44.chunk.css",
     "static/js/2.c056ad7e.chunk.js",
-    "static/css/main.8690e348.chunk.css",
-    "static/js/main.f6645756.chunk.js"
+    "static/css/main.ac1a6514.chunk.css",
+    "static/js/main.c8e949ea.chunk.js"
   ]
 }
